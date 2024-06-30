@@ -1,0 +1,47 @@
+    8
+jmolscript: load "" {1 1 1} spacegroup "x,y,z" unitcell [{      4.198010     0.000000     0.000000 }, {      0.000000     4.198010     0.000000 }, {      0.000000     0.000000     4.198010 }]
+Ni     2.099005     2.099005     2.099005     1.025023
+Ni     2.099005     0.000000     0.000000     1.025031
+Ni     0.000000     2.099005     0.000000     1.025037
+Ni     0.000000     0.000000     2.099005     1.025043
+O      0.000000     0.000000     0.000000    -1.025035
+O      0.000000     2.099005     2.099005    -1.025034
+O      2.099005     0.000000     2.099005    -1.025033
+O      2.099005     2.099005     0.000000    -1.025032
+ 
+ Chargemol version 3.5 September 26, 2017.
+See ddec.sourceforge.net for latest version.
+ 
+Computational parameters:
+Number of radial integration shells =    100
+Cutoff radius (pm) =    500
+Error in the integrated total number of electrons before renormalization (e) =    1.1824E-06
+Charge convergence tolerance =    1.0000E-05
+Minimum radius for electron cloud penetration fitting (pm) =    200
+Minimum decay exponent for electron density of buried atom tails =   1.7500
+Maximum decay exponent for electron density of buried atom tails =  2.5000
+Number of iterations to convergence =      7
+ 
+The following XYZ coordinates are in angstroms. The atomic dipoles and quadrupoles are in atomic units.
+atom number, atomic symbol, x, y, z, net_charge, dipole_x, dipole_y, dipole_z, dipole_mag, Qxy, Qxz, Qyz,Q(x^2-y^2), Q(3z^2 - R^2), three eigenvalues of traceless quadrupole moment tensor
+    1 Ni     2.099005     2.099005     2.099005     1.025023    -0.000000    -0.000000     0.000000     0.000000     0.000000    -0.000000     0.000000    -0.000000     0.000000    -0.000000     0.000000     0.000000
+    2 Ni     2.099005     0.000000     0.000000     1.025031    -0.000000    -0.000000     0.000000     0.000000     0.000000    -0.000000     0.000000    -0.000000     0.000000    -0.000000     0.000000     0.000000
+    3 Ni     0.000000     2.099005     0.000000     1.025037     0.000000     0.000000     0.000000     0.000000     0.000000    -0.000000     0.000000     0.000000    -0.000000    -0.000000    -0.000000     0.000000
+    4 Ni     0.000000     0.000000     2.099005     1.025043     0.000000     0.000000     0.000000     0.000000     0.000000    -0.000000     0.000000     0.000000    -0.000000    -0.000000     0.000000     0.000000
+    5 O      0.000000     0.000000     0.000000    -1.025035     0.000000     0.000000     0.000000     0.000000     0.000000    -0.000000     0.000000     0.000000    -0.000001    -0.000000    -0.000000     0.000000
+    6 O      0.000000     2.099005     2.099005    -1.025034     0.000000     0.000000     0.000000     0.000000     0.000000    -0.000000     0.000000     0.000001    -0.000000    -0.000000    -0.000000     0.000000
+    7 O      2.099005     0.000000     2.099005    -1.025033    -0.000000    -0.000000     0.000000     0.000000     0.000000    -0.000000     0.000000    -0.000001     0.000000    -0.000000     0.000000     0.000000
+    8 O      2.099005     2.099005     0.000000    -1.025032    -0.000000    -0.000000    -0.000000     0.000000     0.000000    -0.000000     0.000000    -0.000000     0.000001    -0.000000    -0.000000     0.000000
+ 
+The sperically averaged electron density of each atom fit to a function of the form exp(a - br) for r >=rmin_cloud_penetration
+atom number,atomic symbol, x, y, z, a, b, Rsquared where a and b are in atomic units and Rsquared is the squared correlation coefficient
+    1 Ni     2.099005     2.099005     2.099005    -0.467977     1.750437     0.999996
+    2 Ni     2.099005     0.000000     0.000000    -0.467984     1.750437     0.999996
+    3 Ni     0.000000     2.099005     0.000000    -0.467992     1.750437     0.999996
+    4 Ni     0.000000     0.000000     2.099005    -0.467998     1.750437     0.999996
+    5 O      0.000000     0.000000     0.000000    -0.570213     1.752170     0.999983
+    6 O      0.000000     2.099005     2.099005    -0.570213     1.752170     0.999983
+    7 O      2.099005     0.000000     2.099005    -0.570213     1.752170     0.999983
+    8 O      2.099005     2.099005     0.000000    -0.570213     1.752170     0.999983
+ 
+ 2023/04/09  20:26:25

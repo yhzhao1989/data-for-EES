@@ -1,0 +1,38 @@
+    5
+jmolscript: load "" {1 1 1} spacegroup "x,y,z" unitcell [{      6.311096     0.000000     0.000000 }, {     -3.155548     5.465569     0.000000 }, {      0.000000     0.000000     3.321536 }]
+La    -0.000003     3.643714     1.660565     1.832782
+La     3.155551     1.821855     1.660971     1.832787
+O      1.576319     2.730265     0.000000    -1.221867
+O      3.158457     0.000000     0.000000    -1.221851
+O     -1.579229     2.735304     0.000000    -1.221851
+ 
+ Chargemol version 3.5 September 26, 2017.
+See ddec.sourceforge.net for latest version.
+ 
+Computational parameters:
+Number of radial integration shells =    100
+Cutoff radius (pm) =    500
+Error in the integrated total number of electrons before renormalization (e) =    1.0345E-06
+Charge convergence tolerance =    1.0000E-05
+Minimum radius for electron cloud penetration fitting (pm) =    200
+Minimum decay exponent for electron density of buried atom tails =   1.7500
+Maximum decay exponent for electron density of buried atom tails =  2.5000
+Number of iterations to convergence =      7
+ 
+The following XYZ coordinates are in angstroms. The atomic dipoles and quadrupoles are in atomic units.
+atom number, atomic symbol, x, y, z, net_charge, dipole_x, dipole_y, dipole_z, dipole_mag, Qxy, Qxz, Qyz,Q(x^2-y^2), Q(3z^2 - R^2), three eigenvalues of traceless quadrupole moment tensor
+    1 La    -0.000003     3.643714     1.660565     1.832782    -0.000046     0.000027    -0.000373     0.000377    -0.000001    -0.000004     0.000002     0.000000    -0.180900    -0.060300     0.030150     0.030150
+    2 La     3.155551     1.821855     1.660971     1.832787     0.000046    -0.000026     0.000373     0.000377    -0.000001    -0.000004     0.000002     0.000000    -0.180901    -0.060300     0.030150     0.030150
+    3 O      1.576319     2.730265     0.000000    -1.221867    -0.000207    -0.000358    -0.000000     0.000414     0.025960     0.000103    -0.000059    -0.029977    -0.038962    -0.023484    -0.012986     0.036470
+    4 O      3.158457     0.000000     0.000000    -1.221851     0.000414    -0.000000     0.000000     0.000414     0.000001     0.000002     0.000128     0.059932    -0.038947    -0.023476    -0.012981     0.036457
+    5 O     -1.579229     2.735304     0.000000    -1.221851    -0.000207     0.000358    -0.000000     0.000414    -0.025951    -0.000110    -0.000065    -0.029969    -0.038947    -0.023477    -0.012981     0.036458
+ 
+The sperically averaged electron density of each atom fit to a function of the form exp(a - br) for r >=rmin_cloud_penetration
+atom number,atomic symbol, x, y, z, a, b, Rsquared where a and b are in atomic units and Rsquared is the squared correlation coefficient
+    1 La    -0.000003     3.643714     1.660565     0.516267     1.760022     0.999951
+    2 La     3.155551     1.821855     1.660971     0.516266     1.760022     0.999951
+    3 O      1.576319     2.730265     0.000000    -0.707134     1.745911     0.999994
+    4 O      3.158457     0.000000     0.000000    -0.707236     1.745906     0.999994
+    5 O     -1.579229     2.735304     0.000000    -0.707237     1.745906     0.999994
+ 
+ 2023/04/09  22:08:00

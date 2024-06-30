@@ -1,0 +1,47 @@
+    8
+jmolscript: load "" {1 1 1} spacegroup "x,y,z" unitcell [{      4.310555     0.000000     0.000000 }, {      0.000000     4.310555     0.000000 }, {      0.000000     0.000000     4.310555 }]
+Fe     0.000000     0.000000     0.000000     1.005226
+Fe     0.000000     2.155277     2.155277     1.005227
+Fe     2.155277     0.000000     2.155277     1.005228
+Fe     2.155277     2.155277     0.000000     1.005228
+O      2.155277     2.155277     2.155277    -1.005227
+O      2.155277     0.000000     0.000000    -1.005227
+O      0.000000     2.155277     0.000000    -1.005227
+O      0.000000     0.000000     2.155277    -1.005227
+ 
+ Chargemol version 3.5 September 26, 2017.
+See ddec.sourceforge.net for latest version.
+ 
+Computational parameters:
+Number of radial integration shells =    100
+Cutoff radius (pm) =    500
+Error in the integrated total number of electrons before renormalization (e) =    1.2659E-06
+Charge convergence tolerance =    1.0000E-05
+Minimum radius for electron cloud penetration fitting (pm) =    200
+Minimum decay exponent for electron density of buried atom tails =   1.7500
+Maximum decay exponent for electron density of buried atom tails =  2.5000
+Number of iterations to convergence =      7
+ 
+The following XYZ coordinates are in angstroms. The atomic dipoles and quadrupoles are in atomic units.
+atom number, atomic symbol, x, y, z, net_charge, dipole_x, dipole_y, dipole_z, dipole_mag, Qxy, Qxz, Qyz,Q(x^2-y^2), Q(3z^2 - R^2), three eigenvalues of traceless quadrupole moment tensor
+    1 Fe     0.000000     0.000000     0.000000     1.005226     0.000000     0.000000    -0.000000     0.000000    -0.000000     0.000000    -0.000000     0.000000    -0.000000    -0.000000    -0.000000     0.000000
+    2 Fe     0.000000     2.155277     2.155277     1.005227     0.000000     0.000000     0.000000     0.000000    -0.000000     0.000000    -0.000000     0.000000    -0.000000    -0.000000    -0.000000     0.000000
+    3 Fe     2.155277     0.000000     2.155277     1.005228     0.000000    -0.000000     0.000000     0.000000    -0.000000     0.000000    -0.000000    -0.000000     0.000000    -0.000000     0.000000     0.000000
+    4 Fe     2.155277     2.155277     0.000000     1.005228     0.000000     0.000000     0.000000     0.000000    -0.000000     0.000000    -0.000000    -0.000000     0.000000    -0.000000     0.000000     0.000000
+    5 O      2.155277     2.155277     2.155277    -1.005227     0.000000    -0.000000     0.000000     0.000000     0.000000     0.000000    -0.000000     0.000000    -0.000000    -0.000000    -0.000000     0.000000
+    6 O      2.155277     0.000000     0.000000    -1.005227    -0.000000     0.000000     0.000000     0.000000    -0.000000     0.000000    -0.000000     0.000000    -0.000000    -0.000000    -0.000000     0.000000
+    7 O      0.000000     2.155277     0.000000    -1.005227     0.000000     0.000000    -0.000000     0.000000    -0.000000     0.000000    -0.000000    -0.000000     0.000000    -0.000000     0.000000     0.000000
+    8 O      0.000000     0.000000     2.155277    -1.005227     0.000000     0.000000    -0.000000     0.000000    -0.000000     0.000000    -0.000000    -0.000000     0.000000    -0.000000    -0.000000     0.000000
+ 
+The sperically averaged electron density of each atom fit to a function of the form exp(a - br) for r >=rmin_cloud_penetration
+atom number,atomic symbol, x, y, z, a, b, Rsquared where a and b are in atomic units and Rsquared is the squared correlation coefficient
+    1 Fe     0.000000     0.000000     0.000000    -0.111292     1.750019     0.999998
+    2 Fe     0.000000     2.155277     2.155277    -0.111292     1.750019     0.999998
+    3 Fe     2.155277     0.000000     2.155277    -0.111292     1.750019     0.999998
+    4 Fe     2.155277     2.155277     0.000000    -0.111293     1.750019     0.999998
+    5 O      2.155277     2.155277     2.155277    -0.556732     1.750208     0.999998
+    6 O      2.155277     0.000000     0.000000    -0.556732     1.750208     0.999998
+    7 O      0.000000     2.155277     0.000000    -0.556732     1.750208     0.999998
+    8 O      0.000000     0.000000     2.155277    -0.556732     1.750208     0.999998
+ 
+ 2023/04/09  19:30:03

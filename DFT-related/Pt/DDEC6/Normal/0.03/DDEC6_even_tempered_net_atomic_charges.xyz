@@ -1,0 +1,47 @@
+    8
+jmolscript: load "" {1 1 1} spacegroup "x,y,z" unitcell [{      2.804700     0.000000     0.000000 }, {      0.000000     4.857800     0.000000 }, {      0.000000     0.000000    36.869999 }]
+Pt     0.000000    -0.025547    14.988798    -0.030475
+Pt     1.402350     2.403353    14.988798    -0.030475
+Pt     0.000000     1.619250    17.289817     0.030475
+Pt     1.402350     4.048150    17.289817     0.030474
+Pt     1.402350     0.809650    19.580182     0.030475
+Pt     0.000000     3.238550    19.580182     0.030475
+Pt     0.000000     0.025547    21.881201    -0.030475
+Pt     1.402350     2.454447    21.881201    -0.030474
+ 
+ Chargemol version 3.5 September 26, 2017.
+See ddec.sourceforge.net for latest version.
+ 
+Computational parameters:
+Number of radial integration shells =    100
+Cutoff radius (pm) =    500
+Error in the integrated total number of electrons before renormalization (e) =    2.0565E-06
+Charge convergence tolerance =    1.0000E-05
+Minimum radius for electron cloud penetration fitting (pm) =    200
+Minimum decay exponent for electron density of buried atom tails =   1.7500
+Maximum decay exponent for electron density of buried atom tails =  2.5000
+Number of iterations to convergence =      7
+ 
+The following XYZ coordinates are in angstroms. The atomic dipoles and quadrupoles are in atomic units.
+atom number, atomic symbol, x, y, z, net_charge, dipole_x, dipole_y, dipole_z, dipole_mag, Qxy, Qxz, Qyz,Q(x^2-y^2), Q(3z^2 - R^2), three eigenvalues of traceless quadrupole moment tensor
+    1 Pt     0.000000    -0.025547    14.988798    -0.030475     0.000000     0.002611    -0.111990     0.112020    -0.000000    -0.000000    -0.003837     0.003903     0.271778    -0.047355    -0.043345     0.090699
+    2 Pt     1.402350     2.403353    14.988798    -0.030475    -0.000000     0.002611    -0.111990     0.112020    -0.000000     0.000000    -0.003837     0.003903     0.271778    -0.047354    -0.043345     0.090699
+    3 Pt     0.000000     1.619250    17.289817     0.030475     0.000000    -0.000592    -0.045930     0.045934    -0.000000    -0.000000    -0.001651     0.008565     0.041595    -0.011323    -0.002650     0.013973
+    4 Pt     1.402350     4.048150    17.289817     0.030474     0.000000    -0.000591    -0.045930     0.045934     0.000000     0.000000    -0.001651     0.008565     0.041595    -0.011323    -0.002650     0.013973
+    5 Pt     1.402350     0.809650    19.580182     0.030475     0.000000     0.000592     0.045936     0.045940     0.000000    -0.000000    -0.001651     0.008565     0.041597    -0.011323    -0.002650     0.013974
+    6 Pt     0.000000     3.238550    19.580182     0.030475     0.000000     0.000591     0.045936     0.045940     0.000000     0.000000    -0.001651     0.008565     0.041596    -0.011323    -0.002650     0.013974
+    7 Pt     0.000000     0.025547    21.881201    -0.030475     0.000000    -0.002611     0.111989     0.112020     0.000000     0.000000    -0.003837     0.003903     0.271778    -0.047355    -0.043345     0.090699
+    8 Pt     1.402350     2.454447    21.881201    -0.030474     0.000000    -0.002611     0.111989     0.112020    -0.000000     0.000000    -0.003837     0.003903     0.271778    -0.047354    -0.043345     0.090699
+ 
+The sperically averaged electron density of each atom fit to a function of the form exp(a - br) for r >=rmin_cloud_penetration
+atom number,atomic symbol, x, y, z, a, b, Rsquared where a and b are in atomic units and Rsquared is the squared correlation coefficient
+    1 Pt     0.000000    -0.025547    14.988798     0.622576     1.735863     0.999925
+    2 Pt     1.402350     2.403353    14.988798     0.622576     1.735863     0.999925
+    3 Pt     0.000000     1.619250    17.289817     0.671985     1.752454     0.999997
+    4 Pt     1.402350     4.048150    17.289817     0.671985     1.752454     0.999997
+    5 Pt     1.402350     0.809650    19.580182     0.671983     1.752454     0.999997
+    6 Pt     0.000000     3.238550    19.580182     0.671983     1.752454     0.999997
+    7 Pt     0.000000     0.025547    21.881201     0.622575     1.735863     0.999925
+    8 Pt     1.402350     2.454447    21.881201     0.622574     1.735863     0.999925
+ 
+ 2022/02/28  19:20:25
