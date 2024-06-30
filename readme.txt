@@ -3,7 +3,7 @@ DFT-related: data from DFT calculations
 --Pt: AIMD results, structures and atomic charges, net charges as a function of the electrode potential, and DOS.
 --SACs: Structures and atomic charges of SACs and DACs collected from EES.
 --TMOs-COD: Structures and atomic charges of TMOs from COD database: FeO, FeO3, Y2O3,  NiO, MnO, Mn2O7 and La2O3.
---TMOs-Norskov: Structures and atomic charges of TMO models provided by Nørskov et al..
+--TMOs-Norskov: Structures and atomic charges of TMO models provided by Nørskov et al.
 --ZrO2: AIMD results, structures and atomic charges, net charges as a function of the electrode potential, and DOS.
 --Others: Structures and atomic charges of other metals and oxides.
 
