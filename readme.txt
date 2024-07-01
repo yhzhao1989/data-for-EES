@@ -15,8 +15,8 @@ Free energy-related: data from free energy calculations
 MD-related: data from MD simulations
 --HOR: Catalyst-water Coulomb interactions, H2(interface) concentrations, and H2 distributions.
 --NRR: Catalyst-water Coulomb interactions, N2(interface) concentrations, N2 distributions.
---ORR: Catalyst-water Coulomb interactions, O2(interface) concentrations, O2 distributions, snapshot structures, New-FF parameters, and the results corresponding to CCS regulation.
+--ORR: Catalyst-water Coulomb interactions, O2(interface) concentrations, O2 distributions, snapshot structures, New-FF parameters, and results corresponding to CCS regulation.
 
 Microkinetics-related: data from microkinetic modeling
 --CCS-related: half-wave potentials, simulated polarization curves, and ratios of the current densities.
---others: simulated polarization curves based on New-FF, polarization curves with the effect of the water dissociation under the conditions of a weak water wall, a medium water wall, and a strong water wall, half-wave potentials and diffusion-limiting current density of Pt as a function of the O2(interface) concentration.
+--others: simulated polarization curves based on New-FF, polarization curves with the effect of the water dissociation under the conditions of a weak water wall, a medium water wall, and a strong water wall, and the half-wave potentials and the diffusion-limiting current density of Pt as a function of the O2(interface) concentration.
