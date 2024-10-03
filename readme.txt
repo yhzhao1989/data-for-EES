@@ -20,3 +20,5 @@ MD-related: data from MD simulations
 Microkinetics-related: data from microkinetic modeling
 --CCS-related: half-wave potentials, simulated polarization curves, and ratios of the current densities.
 --others: simulated polarization curves based on New-FF, polarization curves with the effect of the water dissociation under the conditions of a weak water wall, a medium water wall, and a strong water wall, and the half-wave potentials and the diffusion-limiting current density of Pt as a function of the O2(interface) concentration.
+
+Note: The data for “150-oxy-ZrO2” in the “ZrO2-O2-distribution.xslx” file (file path: MD-related/ORR/ZrO2/O2 distribution) was inadvertently copied into “150-oxy-Pt” in the “Pt-O2-distribution.xslx” file (file path: MD-related/ORR/Pt/O2 distribution). The data for “150-oxy-Pt” is available at https://github.com/yhzhao1989/150-oxy-Pt. 
